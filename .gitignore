@@ -164,3 +164,7 @@ cython_debug/
 /Scripts/
 requirements.txt
 pyvenv.cfg
+hw1
+hw2/__init__.py
+hw2/src/__init__.py
+hw2/test/__init__.py
