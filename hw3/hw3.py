@@ -28,18 +28,18 @@ for user in users:
     }
     for _ in range(books_to_each):
         user_info["books"].append({
-            "Title": books[book_index]["Title"],
-            "Author": books[book_index]["Author"],
-            "Pages": books[book_index]["Pages"],
-            "Genre": books[book_index]["Genre"]
+            "title": books[book_index]["Title"],
+            "author": books[book_index]["Author"],
+            "pages": books[book_index]["Pages"],
+            "genre": books[book_index]["Genre"]
         })
         book_index =+ 1
     if books_left > 0:
         user_info["books"].append({
-            "Title": books[book_index]["Title"],
-            "Author": books[book_index]["Author"],
-            "Pages": books[book_index]["Pages"],
-            "Genre": books[book_index]["Genre"]
+            "title": books[book_index]["Title"],
+            "author": books[book_index]["Author"],
+            "pages": books[book_index]["Pages"],
+            "genre": books[book_index]["Genre"]
         })
         book_index += 1
         books_left -= 1

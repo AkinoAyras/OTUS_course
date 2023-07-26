@@ -6,52 +6,52 @@
         "age": 34,
         "books": [
             {
-                "Title": "Fundamentals of Wavelets",
-                "Author": "Goswami, Jaideva",
-                "Pages": "228",
-                "Genre": "signal_processing"
+                "title": "Fundamentals of Wavelets",
+                "author": "Goswami, Jaideva",
+                "pages": "228",
+                "genre": "signal_processing"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -62,52 +62,52 @@
         "age": 31,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -118,52 +118,52 @@
         "age": 39,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -174,52 +174,52 @@
         "age": 40,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -230,52 +230,52 @@
         "age": 34,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -286,52 +286,52 @@
         "age": 31,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -342,52 +342,52 @@
         "age": 24,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -398,52 +398,52 @@
         "age": 29,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -454,52 +454,52 @@
         "age": 38,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -510,52 +510,52 @@
         "age": 27,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -566,52 +566,52 @@
         "age": 35,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -622,52 +622,52 @@
         "age": 32,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -678,52 +678,52 @@
         "age": 34,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -734,52 +734,52 @@
         "age": 23,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -790,52 +790,52 @@
         "age": 39,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -846,46 +846,46 @@
         "age": 36,
         "books": [
             {
-                "Title": "God Created the Integers",
-                "Author": "Hawking, Stephen",
-                "Pages": "197",
-                "Genre": "mathematics"
+                "title": "God Created the Integers",
+                "author": "Hawking, Stephen",
+                "pages": "197",
+                "genre": "mathematics"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -896,46 +896,46 @@
         "age": 31,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -946,46 +946,46 @@
         "age": 31,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -996,46 +996,46 @@
         "age": 24,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -1046,46 +1046,46 @@
         "age": 32,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -1096,46 +1096,46 @@
         "age": 31,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -1146,46 +1146,46 @@
         "age": 23,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -1196,46 +1196,46 @@
         "age": 30,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -1246,46 +1246,46 @@
         "age": 25,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -1296,46 +1296,46 @@
         "age": 22,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -1346,46 +1346,46 @@
         "age": 37,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -1396,46 +1396,46 @@
         "age": 33,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     },
@@ -1446,46 +1446,46 @@
         "age": 20,
         "books": [
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             },
             {
-                "Title": "Data Smart",
-                "Author": "Foreman, John",
-                "Pages": "235",
-                "Genre": "data_science"
+                "title": "Data Smart",
+                "author": "Foreman, John",
+                "pages": "235",
+                "genre": "data_science"
             }
         ]
     }
