@@ -166,3 +166,6 @@ requirements.txt
 pyvenv.cfg
 hw1
 
+/hw3/users.json
+/hw3/books.csv
+/hw3/files/
