@@ -12,7 +12,7 @@ with open('users.json', "r") as json_file:
 quantity_books = len(books)
 quantity_users = len(users)
 
-books_to_each = int(quantity_books / quantity_users)
+books_to_each = quantity_books // quantity_users
 books_left = quantity_books % quantity_users
 
 result_list = []
@@ -30,15 +30,15 @@ for user in users:
         user_info["books"].append({
             "title": books[book_index]["Title"],
             "author": books[book_index]["Author"],
-            "pages": books[book_index]["Pages"],
+            "pages": int(books[book_index]["Pages"]),
             "genre": books[book_index]["Genre"]
         })
-        book_index =+ 1
+        book_index += 1
     if books_left > 0:
         user_info["books"].append({
             "title": books[book_index]["Title"],
             "author": books[book_index]["Author"],
-            "pages": books[book_index]["Pages"],
+            "pages": int(books[book_index]["Pages"]),
             "genre": books[book_index]["Genre"]
         })
         book_index += 1
